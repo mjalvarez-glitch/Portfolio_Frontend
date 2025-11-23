@@ -139,7 +139,7 @@ export default function Home() {
                 <div className="bg-white/10 p-8 rounded-xl shadow-xl border border-transparent hover:border-yellow-400/50 transition duration-300">
                     <div className="text-center mb-6">
                         <DumbbellIcon className="mx-auto mb-5 w-20 h-20 text-yellow-400"/>
-                        <h3 className="text-yellow-400 text-2xl font-bold font-sans">Eating</h3>
+                        <h3 className="text-yellow-400 text-2xl font-bold font-sans">Exercising</h3>
                     </div>
                     <p className="text-white text-base leading-relaxed text-left">
                         It is a refreshing hobby that keeps the body strong, the mind clear, and the spirit energized.
